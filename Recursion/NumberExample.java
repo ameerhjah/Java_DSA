@@ -11,6 +11,8 @@ public class NumberExample {
     }
 
 static void printNumber(int n ){
+
+    //this is the base condition
         if(n > 5){
             return ;
         }
